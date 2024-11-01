@@ -41,7 +41,7 @@ Indie Gems Portal is a web application that allows users to search for games bas
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/sameerkali/Indie_Gems_Portal.git`
+1. Clone the repository: `[git clone https://github.com/yonatankumsa/indie_Gems_Portal)]`
 2. Navigate to the project directory: `cd Indie_Gems_Portal`
 3. Install dependencies: `npm install`
 
@@ -71,4 +71,3 @@ This project is licensed under the [MIT License](LICENSE).
 * https://rawg.io/ `for game DB api`
 * vite
 ---
-make with ~~lust~~ love 💖 by @sameerkali
